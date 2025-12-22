@@ -129,7 +129,7 @@ const Layout = ({ children }) => {
             <footer className="bg-slate-900 text-white py-8 text-center border-t border-gray-800">
                 <p>© {new Date().getFullYear()} T Square Aluminium Enterprises.</p>
                 <p className="text-sm mt-1 text-gray-500">22, Adebiyi Ayopo Street, Dopemu, Lagos State.</p>
-                <Link to="/me" className="text-xs text-gray-700 mt-4 block hover:text-white">Admin Login</Link>
+                
             </footer>
 
             {/* FLOATING WHATSAPP BUTTON */}
